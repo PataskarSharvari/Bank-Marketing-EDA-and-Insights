@@ -1,4 +1,4 @@
-# 🏦 EDA in Banking using Python
+# 🏦 EDA in Banking Dataset using Python
 
 ## 📘 Project Overview
 
